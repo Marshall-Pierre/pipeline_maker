@@ -1,2 +1,2 @@
 from .Connection import Base
-from .Model import StatBaseModel
+from .Model import InfoBaseModel

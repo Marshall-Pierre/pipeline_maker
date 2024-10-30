@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcc979b2-429e-47ac-a2de-338e214d26d7" name="Changes" comment="" />
+    <list default="true" id="fcc979b2-429e-47ac-a2de-338e214d26d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Enums/StateEnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/BaseUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Home/HomeBaseUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/Components/SearchComponent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/Components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/Connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/Migration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Migration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/Model/StatBaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Router/InitRouter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router/InitRouter.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +38,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mpsupervizr&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -45,6 +69,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Marshall-Pierre/pipeline_maker.git&quot;,
+    &quot;accountId&quot;: &quot;8360fc27-c2c6-4792-b6b0-b7b668892347&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,7 +88,9 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mnguemazeng/Documents/PycharmProjects/pipeline_maker",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -88,7 +120,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>

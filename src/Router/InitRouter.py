@@ -1,4 +1,6 @@
 import flet as ft
+from ..UI.Home.HomeBaseUI import HomeBase
+from ..UI.InfoBase.InfoBaseBase import InfoBase
 
 
 class InitRouter:
@@ -16,11 +18,13 @@ class InitRouter:
             destinations=[
                 ft.NavigationRailDestination(icon=ft.icons.HOME, label_content=ft.Text("Accueil",
                                                                                        color=ft.colors.WHITE, )),
+                ft.NavigationRailDestination(icon=ft.icons.DATA_THRESHOLDING, label_content=ft.Text("Bases",
+                                                                                       color=ft.colors.WHITE, )),
             ]
         )
 
     def on_nav_change(self, e):
-        selected_route = "/" if e.control.selected_index == 0 else "/home"
+        selected_route = "/" if e.control.selected_index == 0 else "/info_base"
         self.page.go(selected_route)
 
     def navigate(self, route):
@@ -31,6 +35,21 @@ class InitRouter:
                     controls=[
                         ft.Row([
                             self.nav_rail,
+                            HomeBase(self.page).page_content
+                        ],
+                            expand=True
+                        )
+                    ]
+                )
+            )
+        elif route == "/info_base":
+            self.page.views.clear()
+            self.page.views.append(
+                ft.View(
+                    controls=[
+                        ft.Row([
+                            self.nav_rail,
+                            InfoBase(self.page).page_content
                         ],
                             expand=True
                         )
