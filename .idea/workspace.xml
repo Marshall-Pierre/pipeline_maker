@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcc979b2-429e-47ac-a2de-338e214d26d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Enums/StateEnum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enums/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/BaseUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Home/HomeBaseUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/Components/SearchComponent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/Components/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Components/SearchComponent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB/Connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB/Migration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Migration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB/Model/StatBaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Router/InitRouter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router/InitRouter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/Components/SearchComponent.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/Components/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/Components/DataTableComponent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +83,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mnguemazeng\Documents\PycharmProjects\pipeline_maker\src\UI" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pipeline_maker" />
