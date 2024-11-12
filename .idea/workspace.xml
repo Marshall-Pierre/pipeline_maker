@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcc979b2-429e-47ac-a2de-338e214d26d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UI/Components/SearchComponent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Components/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/DataTableUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/EditInfoBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/EventBus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/EventBusInstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/LaunchBase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/Components/SearchComponent.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/Components/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/Components/DataTableComponent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,15 +78,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mnguemazeng/Documents/PycharmProjects/pipeline_maker",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mnguemazeng/Documents/PycharmProjects/pipeline_maker&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mnguemazeng\Documents\PycharmProjects\pipeline_maker\src\UI" />

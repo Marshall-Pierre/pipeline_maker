@@ -6,6 +6,7 @@ from ..Enums.StateEnum import StateEnum
 class Base(BaseModel):
     libelle: str
     link_file_batch: str
+    diffusion: str | None = None
 
 
 class Create(Base):
