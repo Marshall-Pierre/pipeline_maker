@@ -7,8 +7,6 @@ class InfoBase(Base):
         super().__init__(page, "Bases")
         self.page_content = self.build_page()
 
-
-
     def build_page(self):
         return ft.Column(
             expand=True,
