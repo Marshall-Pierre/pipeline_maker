@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcc979b2-429e-47ac-a2de-338e214d26d7" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/DataTableUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InfoBase/EditInfoBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/EventBus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/EventBusInstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/LaunchBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/InfoBaseController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/Model/InfoBaseModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Schema/InfoBaseSchema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/InfoBase/AddInfoBase.py" afterDir="false" />
+>>>>>>> a87c875d40fc74320c9863baa01bd62f0f848ea7
       <change beforePath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/InfoBase/InfoBaseBase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +92,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+<<<<<<< HEAD
+=======
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mnguemazeng\Documents\PycharmProjects\pipeline_maker\src\UI" />
+    </key>
+  </component>
+>>>>>>> a87c875d40fc74320c9863baa01bd62f0f848ea7
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pipeline_maker" />
